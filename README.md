@@ -1,3 +1,9 @@
+### [This upload was created as part of an upcoming CTF challenge being created, but does include some interesting theories.]
+
+
+
+
+
 ### Introduction to Chrono-Loop: A Temporally Embedded Mathematics
 
 Drawing from philosophical notions of process and becoming (as in Heraclitus and Bergson, where reality is flux rather than static being), logical systems like temporal logic (with operators that qualify truths over time), mathematical frameworks such as dynamical systems and recursive function theory (where iterations unfold sequentially), and physical principles like time-evolution in quantum mechanics (via unitary operators) or feedback in relativity's closed timelike curves, I propose a new system called **Chrono-Loop Mathematics** (abbreviated as CLM). This is a form of logic where mathematical expressions are inherently embedded in time, deriving their value or truth from self-referential temporal loops. Unlike conventional mathematics, which can be evaluated atemporally (e.g., 2 + 3 = 5 holds independently of when it's computed), CLM expressions lose all meaning if stripped of time—they collapse into undefined or paradoxical states because their consistency relies on time-dependent feedback, akin to strange loops in self-referential systems (Hofstadter's tangled hierarchies) but explicitly requiring temporal progression to resolve. This mirrors temporal bootstrapping, where a system's foundation is "pulled" into existence through a future-past loop, self-consistent cycle, much like a equation whose solution references its own evolution.
